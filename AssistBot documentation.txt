@@ -1,0 +1,44 @@
+﻿Documentation applicable for versions: 0.0.1
+- {CB} BlokPlaysGames
+
+
+Welcome to the documentation for AssistBot! Found a bug? Open an issue on github (the same place you downloaded this, hopefully.)
+
+
+If you received this program from anywhere other than my github, DO NOT RUN IT. Uninstall, run an antivirus scan, navigate to the official github, and install from there. I will never ask you for anything other than leaving your mouse alone :)
+
+
+If you have some input that is NOT a bug, reach out to blokplaysgames@gmail.com and we can chat about it. I’m happy to expand this macro as far as is necessary to give everyone an even playing field.
+
+
+Prerequisites: Python, PyAutoGUI
+
+
+This repo is bundled with multiple PNG files that are required for the main file to run. Deletion of these files will cause the code to malfunction.
+
+
+Unzip this folder, but keep it all in one place. If any files are moved, the code will malfunction.
+
+
+I personally ran this via. Microsoft VS Code for testing, but you can run it through your Python terminal.
+
+
+DISABLE ANY COLOUR-SHIFTING SETTINGS ON YOUR COMPUTER
+This code heavily relies on image recognition, so colour shifts will cause it to malfunction.
+
+
+Run the program, tab back into the game, and wait for the assisting to start!
+
+
+This program exists to try and even out endgame assisting. Currently, you need 25 iPads or to be lvl 150+ to have a fair fight in higher trophy brackets. Hopefully that’s a thing of the past now.
+
+
+
+
+
+
+Legal mambo-jumbo I have to include follows, normal people be warned!
+
+
+This code is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+TL;DR, cite your source, no making money on my code, and release your forks under ncsa 4.0 as well. Also you being an idiot is not my fault, if it breaks just install the latest patch or open an issue. Thanks for understanding :)
